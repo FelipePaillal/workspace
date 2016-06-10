@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package cl.curso.java.abstract_factory;
+
+/**
+ * @author gonza
+ *
+ */
+public class GUIbuilder {
+
+}

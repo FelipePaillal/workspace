@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package cl.curso.java.singleton_app;
+
+/**
+ * @author gonza
+ *
+ */
+public class Motor {
+	private static Motor motor;
+	
+	private Motor(){
+		
+	}
+	public static void getinstance(){
+		
+		Motor motor = new Motor();
+	}
+
+}

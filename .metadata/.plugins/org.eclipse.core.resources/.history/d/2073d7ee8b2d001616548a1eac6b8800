@@ -1,0 +1,14 @@
+package cl.curso.java.login_app;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	Webcam webcam = Webcam.
+       
+    }
+}

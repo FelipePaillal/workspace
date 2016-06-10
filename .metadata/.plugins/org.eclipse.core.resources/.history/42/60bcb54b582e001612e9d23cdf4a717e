@@ -1,0 +1,19 @@
+package cl.curso.java.abstract_factory;
+
+import javax.swing.plaf.synth.SynthSeparatorUI;
+
+import org.omg.Messaging.SyncScopeHelper;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+   
+    
+    String plataform = System.getProperty("os.name").toLowerCase();
+    
+    System.out.println(plataform);
+}

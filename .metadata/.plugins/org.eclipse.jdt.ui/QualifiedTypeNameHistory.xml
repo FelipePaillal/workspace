@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.github.sarxos.webcam.Webcam"/>
+<fullyQualifiedTypeName name="java.awt.Image"/>
+<fullyQualifiedTypeName name="javax.imageio.ImageIO"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.awt.Dimension"/>
+<fullyQualifiedTypeName name="com.github.sarxos.webcam.WebcamResolution"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="cl.curso.java.login_app.CuentaBloqueadaException"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="cl.curso.java.login_app.WebcamService"/>
+<fullyQualifiedTypeName name="cl.curso.java.abstract_factory.Window"/>
+<fullyQualifiedTypeName name="cl.curso.java.abstract_factory.MacOsxWindow"/>
+<fullyQualifiedTypeName name="cl.curso.java.abstract_factory.AbstractWidgetFactory"/>
+<fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSeparatorUI"/>
+<fullyQualifiedTypeName name="cl.curso.java.abstract_factory.GUIbuilder"/>
+<fullyQualifiedTypeName name="cl.curso.java.abstract_factory.MsWindowsWidgetFactory"/>
+<fullyQualifiedTypeName name="cl.curso.java.abstract_factory.MacOsxWidgetFactory"/>
+</qualifiedTypeNameHistroy>
